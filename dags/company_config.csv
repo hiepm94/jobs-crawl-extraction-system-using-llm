@@ -1,0 +1,5 @@
+companyID,name,homeLink,companyCareerLink,countryID,rootJob,selector,crawlFrequently
+16_USA_SU,Suki,https://www.suki.ai/,https://boards.greenhouse.io/suki,USA,https://boards.greenhouse.io/,.job-post a,daily
+16_USA_MAMO,May Mobility,https://maymobility.com/,https://boards.greenhouse.io/maymobility,USA,https://boards.greenhouse.io,.opening a,weekly
+16_USA_DEFAI,Defined AI,https://www.defined.ai/,https://definedai.applytojob.com/,USA,,.jobs-list a,biweekly
+16_USA_CL,Clarifai,https://www.clarifai.com,https://boards.greenhouse.io/embed/job_board?for=clarifai,USA,,.opening a,daily
